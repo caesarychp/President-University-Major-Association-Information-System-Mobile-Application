@@ -34,7 +34,7 @@ The major associations at President University play a crucial role in enhancing 
 
 ### Announcements
 Receive announcements and news from associations in real-time. The announcements are categorized into:
-- **B-techie**: Announcements related to business information, helping students stay informed about the latest trends, events, and updates in the business information domain.
+- **B-techji**: Announcements related to business information, helping students stay informed about the latest trends, events, and updates in the business information domain.
 - **In-techie**: Announcements related to insights about technology, providing students with the latest news, trends, and updates in the technology sector.
 
 ### User Profiles
