@@ -27,7 +27,6 @@ The primary objectives of the application are to:
 The major associations at President University play a crucial role in enhancing the student experience by organizing events, providing support, and fostering a sense of community. However, managing and disseminating information about these associations can be challenging. This project aims to address these challenges by providing a mobile application that centralizes information, facilitates communication, and promotes engagement.
 
 ### Target Audience
-- **Students**: Access information about major associations, stay updated on events, and participate in association activities.
 - **Association Members**: Manage association information, communicate with members, and promote events.
 
 ## Features
@@ -38,7 +37,7 @@ Receive announcements and news from associations in real-time. The announcements
 - **In-techie**: Announcements related to insights about technology, providing students with the latest news, trends, and updates in the technology sector.
 
 ### User Profiles
-Create and manage user profiles to personalize the experience. Each user can create their own profile, which includes personal information, interests, and association membership details. This personalized profile helps users to receive tailored information and updates relevant to their interests and association activities. It also enables better networking and interaction among members of the same association.
+Create and manage user profiles to personalize the experience. Each user can create their own profile, which includes personal information.
 
 ## Technologies Stack
 
